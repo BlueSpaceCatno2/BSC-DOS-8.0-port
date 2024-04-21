@@ -1,0 +1,14 @@
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\bin\Debug\net8.0\BSC-DOS 8.0 port.exe
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\bin\Debug\net8.0\BSC-DOS 8.0 port.deps.json
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\bin\Debug\net8.0\BSC-DOS 8.0 port.runtimeconfig.json
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\bin\Debug\net8.0\BSC-DOS 8.0 port.dll
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\bin\Debug\net8.0\BSC-DOS 8.0 port.pdb
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\BSC-DOS 8.0 port.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\BSC-DOS 8.0 port.AssemblyInfoInputs.cache
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\BSC-DOS 8.0 port.AssemblyInfo.cs
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\BSC-DOS 8.0 port.csproj.CoreCompileInputs.cache
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\BSC-DOS 8.0 port.dll
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\refint\BSC-DOS 8.0 port.dll
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\BSC-DOS 8.0 port.pdb
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\BSC-DOS 8.0 port.genruntimeconfig.cache
+C:\Users\khan\source\repos\BSC-DOS 8.0 port\BSC-DOS 8.0 port\obj\Debug\net8.0\ref\BSC-DOS 8.0 port.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BSC-DOS 8.0 port/1.0.0": {
+        "runtime": {
+          "BSC-DOS 8.0 port.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSC-DOS 8.0 port/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
